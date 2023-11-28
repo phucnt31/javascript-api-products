@@ -4,6 +4,10 @@
 
 - Product Catalog: https://vanilla-js-api-products.netlify.app
 
+#### What is an API?
+
+- [What is an API?](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/)
+
 #### API Docs
 
 - (Products)[https://course-api.com/javascript-store-products]
